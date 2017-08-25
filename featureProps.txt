@@ -1,0 +1,12 @@
+"shape_area": 0.000021994231310113,
+"objectid": 1430,
+"barriocomu": "Jerusalén La Pradera",
+"shape_len": 0.022444089638483003,
+"geo_point_2d": [
+4.571707830640819,
+-74.16233527783412
+],
+"localidad": "Ciudad Bolívar",
+"estado": "LEGALIZADO",
+"cod_loc": 19,
+"cod_polbar": 190083
