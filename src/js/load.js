@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function(){
     // Load map
     var width = 690,
  	height = 800;
-    var map_url = "data/barrios.geo.json";
+    var map_url = "data/btalocal.geo.json";
     var feature_classname = 'barrios';
     var id_prop = 'objectid';
     
